@@ -1,15 +1,15 @@
 # Define the student records as a dictionary
 students = {
-    'Alice Johnson': {'Midterm': 85, 'Final': 90, 'Oral': 80},
-    'Bob Smith': {'Midterm': 78, 'Final': 82, 'Oral': 74},
-    'Carol White': {'Midterm': 90, 'Final': 92, 'Oral': 88},
-    'David Brown': {'Midterm': 65, 'Final': 70, 'Oral': 60},
-    'Eve Davis': {'Midterm': 58, 'Final': 65, 'Oral': 70},
-    'Frank Moore': {'Midterm': 82, 'Final': 80, 'Oral': 85},
-    'Grace Lee': {'Midterm': 95, 'Final': 100, 'Oral': 90},
-    'Henry Wilson': {'Midterm': 72, 'Final': 75, 'Oral': 78},
-    'Isaac Miller': {'Midterm': 69, 'Final': 73, 'Oral': 65},
-    'Judy Harris': {'Midterm': 88, 'Final': 84, 'Oral': 80}
+    'Ahmet': {'Ara': 85, 'Final': 90, 'Oral': 80},
+    'Mehmet': {'Ara': 78, 'Final': 82, 'Oral': 74},
+    'Hasan': {'Ara': 90, 'Final': 92, 'Oral': 88},
+    'Hüseyin': {'Ara': 65, 'Final': 70, 'Oral': 60},
+    'Ali': {'Ara': 58, 'Final': 65, 'Oral': 70},
+    'Veli': {'Ara': 82, 'Final': 80, 'Oral': 85},
+    'Ayşe': {'Ara': 95, 'Final': 100, 'Oral': 90},
+    'Fatma': {'Ara': 72, 'Final': 75, 'Oral': 78},
+    'Emel': {'Ara': 69, 'Final': 73, 'Oral': 65},
+    'Şükriye': {'Ara': 88, 'Final': 84, 'Oral': 80}
 }
 
 # Function to calculate GPA
